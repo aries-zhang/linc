@@ -1,0 +1,11 @@
+{ 
+  "name": "linc",
+  "version": "0.1.0",
+  "description": "A typical app that incorporates a schedular and a http API.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "4.15.2",
+    "node-schedule": "1.2.1"
+  }
+}
+
